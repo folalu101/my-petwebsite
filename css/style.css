@@ -23,3 +23,33 @@ h2 {
     font-size: 30px;
     text-align: left;
 }
+img {
+    height: 300px;
+    width: 400px;
+    border-radius: 80px;
+    border: 10px;
+    border-color: blueviolet;
+    border-style: solid;
+}
+ul {
+    color: brown;
+    background-color: chartreuse;
+}
+ol {
+    background-color: cyan;
+}
+li {
+    color: coral;
+    line-height: 50px;
+    line-gap-override: 10px;
+    line-clamp: 10px;
+}
+footer {
+    color: darkorange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: bisque;
+    border-radius: 10px;
+}
+
+
+
